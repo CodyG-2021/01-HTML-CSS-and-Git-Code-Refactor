@@ -1,11 +1,11 @@
-/*Universal Selectors*/
+/*----Universal Selectors----*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/*Elemental Selectors*/
+/*----Elemental Selectors----*/
 body {
     background-color: #d9dcd6;
 }
@@ -52,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-/*Class Selectors*/
+/*----Class Selectors----*/
 
 .digital-marketing-meeting img {
     object-fit: cover;
@@ -149,9 +149,9 @@ p {
     font-size: 20px;
 }
 
-/* Took this out so I could add some alt text to the image since its so big*/
+/* Took this out from the original so I could add some alt text to the image since its so big
 
-/* .hero {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
