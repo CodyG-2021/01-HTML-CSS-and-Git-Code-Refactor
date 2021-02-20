@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-This website has been refactored to be more accessible while maintaining the current feel. Images have been given alternative text four users who view the screen by touching it.
+This website has been refactored to be more accessible while maintaining the current feel. Images have been given alternative text for users who view the screen by touching it.
 
 The styling has been touched up to be more condensed and readable for anyone else who may need to edit it in the future.
 
