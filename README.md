@@ -12,6 +12,6 @@ Below is a screen shot of the refactored website:
 
 Below is the link to the refactored website:
 
-https://codyg-2021.github.io/01-HTML-CSS-and-Git-Code-Refactor/#search-engine-optimization
+https://codyg-2021.github.io/01-HTML-CSS-and-Git-Code-Refactor/
 
 > **Note**: This layout is designed for desktop viewing
